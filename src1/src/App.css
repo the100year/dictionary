@@ -1,0 +1,44 @@
+.dicWrite{
+  width: 500px;
+  margin: 0 auto;
+  background-color: blueviolet;
+  text-align: center;
+  padding: 30px 0;
+}
+.dicWrite>div>dl{
+  display: flex;
+  padding-left: 60px;
+}
+.dicWrite>div>dl>dt>input{
+  height: 30px;
+}
+.dicWrite>div>dl>dd>textarea{
+  height: 30px;
+}
+.dicSearch{
+  width: 500px;
+  margin: 0 auto;
+  background-color: bisque;
+  text-align: center;
+  padding: 50px 0;
+}
+.diclist{
+  width: 500px;
+  margin: 0 auto;
+  background-color: thistle;
+  text-align: center;
+  padding: 50px 0;
+}
+.dicitem{
+  width: 500px;
+  margin: 0 auto;
+  background-color: thistle;
+  text-align: center;
+  padding: 50px 0;
+}
+.dodo>button{
+  margin-left: 10px;
+}
+.dododo{
+  margin-left:10px ;
+}
